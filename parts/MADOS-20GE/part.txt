@@ -1,0 +1,5 @@
+name: 20mm Grub Threaded Joiner
+category: Joiners
+description: A threaded pin that joins two plain blocks face to face. It is screwed in with a 5 mm Allen key until half is in each block.
+layer_height: 0.1 or 0.12
+page: https://www.mados3d.com/mados/mados-20ge

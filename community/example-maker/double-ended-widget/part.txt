@@ -1,0 +1,7 @@
+name: Double-ended widget (placeholder)
+category: Mini blocks
+description: Placeholder. The two model files in this folder are copies of MADOS-20KH, here only to show what a community part's folder looks like.
+author: Example Maker
+licence: CC0-1.0
+layer_height: 0.2
+page: https://www.printables.com/

@@ -1,0 +1,5 @@
+name: 20mm Mini Block Half D
+category: Mini blocks
+description: A small piece only 5 mm thick, with four sockets and no plugs.
+layer_height: 0.2
+page: https://www.mados3d.com/mados/mados-20kh
